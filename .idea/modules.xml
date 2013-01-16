@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bonecp/bonecp.iml" filepath="$PROJECT_DIR$/bonecp/bonecp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bonecp-jdk-compat/bonecp-jdk-compat.iml" filepath="$PROJECT_DIR$/bonecp-jdk-compat/bonecp-jdk-compat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bonecp-parent.iml" filepath="$PROJECT_DIR$/bonecp-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bonecp-spring/bonecp-spring.iml" filepath="$PROJECT_DIR$/bonecp-spring/bonecp-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bonecp-test-commons/bonecp-test-commons.iml" filepath="$PROJECT_DIR$/bonecp-test-commons/bonecp-test-commons.iml" />
+    </modules>
+  </component>
+</project>
+
